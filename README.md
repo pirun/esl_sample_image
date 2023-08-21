@@ -2,9 +2,9 @@
 
 - EPD format: 
   - `esl_image_bt`
-  - `esl_image_empower`
+  - `esl_image_thread`
 
-- PNG format: 
-  - `esl_image_00_240x120_bt.png`
-  - `esl_image_09_400x300_empower.png`
+- BMP format:
+  - `esl_image_00_240x120_bt.BMP`
+  - `esl_image_01_240x120_thread.BMP`
 
